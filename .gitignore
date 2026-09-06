@@ -1,0 +1,30 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# Android
+**/.gradle/
+**/local.properties
+
+# IDE
+**/.idea/
+**/.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Secrets
+.env
+*.env
+serviceAccountKey.json
+google-services-admin.json
